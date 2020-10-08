@@ -35,3 +35,9 @@ $ npm install nodemon concurrently # 자동으로 변경된 코드 실행
 ```
 
 그 후, `npm start`하면 자동으로 변경된 코드 실행
+
+<br />
+
+### bubble sort
+
+- 앞 뒤 크기를 비교하여, 자리 변경이 없다면 그대로 fix
